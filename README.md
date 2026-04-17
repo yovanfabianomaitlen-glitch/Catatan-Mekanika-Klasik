@@ -40,7 +40,7 @@ Independent Publishing Platform.
 * Landau, L. D., & Lifshitz, E. M. (1976). *Mechanics* (3rd ed., Vol. 1). Butterworth-Heinemann.
 
 # Kontributor
-* Yovan Fabiano Maitlen (yovanfabianomaitlen#gmail.com)
+* Yovan Fabiano Maitlen (yovanfabianomaitlen@gmail.com)
   (Senior High School Student at SMA Katolik St. Albertus Malang)
 * Naufal Lutfian Hakim (lutfianhakimnaufal@gmail.com)
   (Undergraduate Physics Student at Univeristas Airlangga)
