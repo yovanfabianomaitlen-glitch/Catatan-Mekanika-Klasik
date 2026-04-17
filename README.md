@@ -13,7 +13,7 @@ Catatan mekanika klasik ini baik yang dasar serta lanjutan dikemas dalam format 
 | 2 | Kinematika 2-D | dalam penulisan |
 | 3 | Dinamika Translasi | dalam penulisan |
 | 4 | Usaha dan Energi | dalam penulisan |
-| 5 | Impuls dan Momentum Bagian 1 |  |
+| 5 | Impuls dan Momentum Bagian 1 | https://github.com/yovanfabianomaitlen-glitch/Catatan-Mekanika-Klasik/blob/main/Catatan%20Mekanika%20Klasik%20Dasar%20Bab%205.pdf |
 | 6 | Impuls dan Momentum Bagian 2 | dalam penulisan |
 | 7 | Dinamika Rotasi | dalam penulisan |
 | 8 | Momentum Angular | dalam penulisan |
