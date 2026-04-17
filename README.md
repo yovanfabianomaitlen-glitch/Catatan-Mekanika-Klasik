@@ -39,8 +39,10 @@ Pada saat ini kami sedang memprioritaskan penulisan untuk catatan mekanika klasi
 Independent Publishing Platform.
 * Landau, L. D., & Lifshitz, E. M. (1976). *Mechanics* (3rd ed., Vol. 1). Butterworth-Heinemann.
 
-# Kolaborator
-Naufal Lutfian Hakim (lutfianhakimnaufal@gmail.com)
-(Undergraduate Physics Student at Univeristas Airlangga)
+# Kontributor
+* Yovan Fabiano Maitlen (yovanfabianomaitlen#gmail.com)
+  (Senior High School Student at SMA Katolik St. Albertus Malang)
+* Naufal Lutfian Hakim (lutfianhakimnaufal@gmail.com)
+  (Undergraduate Physics Student at Univeristas Airlangga)
 
 
