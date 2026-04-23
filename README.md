@@ -44,5 +44,6 @@ Independent Publishing Platform.
   (Senior High School Student at SMA Katolik St. Albertus Malang)
 * Naufal Lutfian Hakim (lutfianhakimnaufal@gmail.com)
   (Undergraduate Physics Student at Univeristas Airlangga)
+* Kristian Indrajati Herlambang as reviewer (Physics Teacher at St. Albertus Christian High School)
 
 
