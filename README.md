@@ -4,7 +4,7 @@ Berisi kumpulan catatan pada materi mekanika klasik dasar, dan lanjutan terkhusu
 # Tentang Catatan Ini 
 Catatan ini terbagi menjadi dua bagian yakni bagian mekanika klasik dasar, dan mekanika klasik lanjutan. Catatan mekanika klasik dasar merupakan catatan mekanika klasik yang berbasis pada mekanika Newton, sedangkan mekanika klasik lanjutan merupakan catatan mekanika klasik yang berbasis pada formulasi prinsip aksi minimum, dan mekanika Lagrangian serta Hamiltonian. 
 
-Catatan mekanika klasik ini baik yang dasar serta lanjutan dikemas dalam format terstruktur, dan singkat, serta ditulis dalam bahasa Indonesia. Terdiri atas rangkuman materi namun tetap dengan derivasi yang cukup detail, dan bagian soal dan pembahasan. Catatan ini bertujuan untuk menyampaikan materi klasik dalam format yang mudah dipahami.
+Catatan mekanika klasik ini baik yang dasar serta lanjutan dikemas dalam format terstruktur, dan singkat, serta ditulis dalam bahasa Indonesia. Terdiri atas rangkuman materi namun tetap dengan derivasi yang cukup detail, dan bagian soal dan pembahasan. Catatan ini bertujuan untuk menyampaikan materi klasik dalam format yang mudah, dan cepat dipahami.
 
 # Sturktur Catatan Mekanika Klasik Dasar:
 | No. | Bab | Status |
